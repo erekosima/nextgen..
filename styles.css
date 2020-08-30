@@ -1,0 +1,38 @@
+#FullBody {
+  background-color: #FF7978;
+}
+
+.container {
+  padding: 7% 15%;
+}
+
+.title  {
+  width: 80%;
+  font-family: 'avenir', sans-serif;
+}
+.aim {
+  width: 80%;
+  font-family: 'Roboto', sans-serif;
+}
+.title {
+  font-size: 3.0rem;
+  font-weight: bold;
+}
+
+.FormContainer {
+  background-color: #FFFFFF;
+  padding: 5% 7% 5% 7%;
+  width: 65%;
+  text-align: center;
+  margin: 0 0 0 20%;
+}
+
+.form-group{
+  padding: 2%;
+}
+.register{
+  text-align: left;
+}
+
+.text{padding: 7% 15%;
+color: #ffffff;}
